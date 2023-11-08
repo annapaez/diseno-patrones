@@ -25,4 +25,4 @@ Para probar cada patrón, sigue estos pasos:
 
 ## Creador
 
-Victor Benjamin Gimenez
+Anna C Paez
